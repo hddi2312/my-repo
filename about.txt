@@ -1,0 +1,1 @@
+print("my name is hail im a student in towaiq academy")
